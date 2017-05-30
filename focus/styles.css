@@ -1,0 +1,25 @@
+.flex-wrap {
+  padding-top: 200px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.focus-btn {
+  color: black;
+  width: 200px;
+  height: 50px;
+  font-size: 22px;
+  cursor: pointer;
+  overflow: hidden;
+  background-color: limegreen;
+  border: none;
+}
+
+button,
+input {
+  margin-bottom: 20px;
+}
